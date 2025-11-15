@@ -47,7 +47,7 @@ This robotic arm includes full support for ROS, enabling high-level motion
 control, visualization, trajectory planning, and integration with computer vision 
 pipelines.
 
-### ✔ Supported ROS Capabilities
+###  Supported ROS Capabilities
 - Real-time joint state publishing from the ESP32
 - Control of all 6 servos via `/joint_commands` topic
 - URDF description of the full 6-DOF manipulator
